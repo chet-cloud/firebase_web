@@ -1,3 +1,9 @@
+# authentication 
+
+https://github.com/firebase/firebaseui-web
+
+
+
 # FriendlyEats (Web)
 
 ## Introduction
